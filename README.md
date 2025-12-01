@@ -47,4 +47,4 @@ This repository is a complete, deploy-ready **Mini Team Chat** app built with th
 - Environment variables are required for DB and JWT secret.
 - For deployment, use Vercel (frontend) and Render/Heroku/Render for backend + MongoDB Atlas for DB.
 
--- End of README
+
